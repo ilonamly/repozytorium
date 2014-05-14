@@ -1,4 +1,9 @@
 def suma(a,b):
     return a+b
-print (suma)
-print('koniec')
+
+def iloczyn (a,b):
+    return a*b
+    
+print (suma(2,4))
+
+print('Koniec')
